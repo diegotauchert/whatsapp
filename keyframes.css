@@ -1,0 +1,28 @@
+@keyframes device-show{
+  100%{
+    opacity: 1;
+  }
+}
+@keyframes device-hide{
+  100%{
+    opacity: 0;
+  }
+}
+@keyframes device-scrolldown{
+  50%{
+    transform: translateY(-50px);
+  }
+  100%{
+    transform: translateY(-230px);
+  }
+}
+@keyframes device-scrollup{
+  100%{
+    transform: translateY(0);
+  }
+}
+@keyframes device-click{
+  100%{
+    opacity: 1;
+  }
+}
